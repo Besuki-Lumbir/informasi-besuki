@@ -620,6 +620,7 @@ footer {
   bottom: 0;
   z-index: 2;
   margin-top: -1px;
+  text-align: center;
 }
 
 footer p {
@@ -638,6 +639,14 @@ footer p em {
 
 footer a {
 	color: #343434;
+}
+
+footer img {
+  width: 18px; /* Atur ukuran lebar gambar sesuai keinginan Anda */
+  height: auto; /* Menjaga rasio aspek gambar */
+  margin-bottom: 5px; /* Jarak antara gambar dan teks di atasnya */
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 /*
